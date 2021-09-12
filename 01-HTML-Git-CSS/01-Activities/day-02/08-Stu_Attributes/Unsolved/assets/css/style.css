@@ -17,13 +17,16 @@
 #portfolio {
   background-color: darkorange;
 }
-p {
+
+.p {
   size: 24px;
 }
-img {
+
+.img {
   width: 200px;
   height: 200px;
 }
-ul {
+
+.ul {
   size: 24px;
 }
