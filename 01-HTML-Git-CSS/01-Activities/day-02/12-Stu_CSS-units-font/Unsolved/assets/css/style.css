@@ -5,6 +5,24 @@
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
+.section-baby_spiders {
+  font-size: large;
+  font-weight: bold;
+  background-color: #fffacd;
+}
+
+.section-beds {
+  font-size: large;
+  font-weight: bold;
+  background-color: #fffacd;
+}
+
+.section-powerful_squirrels {
+  font-size: large;
+  font-weight: bold;
+  background-color: #fffacd;
+}
+
 /* Fact 1 */
 #fact-1 {
   font-weight: bold;
