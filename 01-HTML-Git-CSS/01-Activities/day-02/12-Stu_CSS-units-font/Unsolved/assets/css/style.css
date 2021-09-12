@@ -1,26 +1,37 @@
 /* TODO: Add typography */
-.section {
-  background-color: #fffacd;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+
+h1 {
+  font-size: large;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: large;
+  font-weight: bold;
 }
 
 .section-baby_spiders {
   font-size: large;
   font-weight: bold;
   background-color: #fffacd;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 .section-beds {
   font-size: large;
   font-weight: bold;
   background-color: #fffacd;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 .section-powerful_squirrels {
   font-size: large;
   font-weight: bold;
   background-color: #fffacd;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 /* Fact 1 */
