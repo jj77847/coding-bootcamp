@@ -1,6 +1,8 @@
 /* TODO: Add typography */
 .section {
   background-color: #fffacd;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 /* Fact 1 */
