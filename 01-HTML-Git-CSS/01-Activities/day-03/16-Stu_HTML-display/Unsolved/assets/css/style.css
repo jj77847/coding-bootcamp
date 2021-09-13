@@ -23,22 +23,39 @@ li {
 img {
   /* TODO: Add your code here */
   margin: 0 auto;
+  width: 20%;
 }
 
 #item-1 {
   background-color: #e0115f;
+  display: inline-block;
 }
 
 #item-2 {
   background-color: #0000ff;
+  display: inline-block;
 }
 
 #item-3 {
   background-color: #999900;
+  display: inline-block;
+}
+
+* Box 1 */ #image-1 {
+  /* TODO: Add your code here */
+  display: list-item;
+  display: inline-block;
+}
+
+* Box 2 */ #image-2 {
+  /* TODO: Add your code here */
+  display: list-item;
+  display: inline-block;
 }
 
 /* Box 3 */
 #image-3 {
   /* TODO: Add your code here */
   display: list-item;
+  display: inline-block;
 }
