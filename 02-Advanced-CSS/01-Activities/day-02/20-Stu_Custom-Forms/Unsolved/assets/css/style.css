@@ -29,7 +29,7 @@ nav ul {
 }
 
 nav a {
-  color: #b9C6ae;
+  color: #b9c6ae;
   font-weight: bold;
   text-decoration: none;
 }
@@ -90,7 +90,7 @@ select {
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
-  background-image: url("../images/arrow.png");
+  background-image: url('../images/arrow.png');
   background-repeat: no-repeat;
   background-position: right;
   background-size: contain;
@@ -101,14 +101,17 @@ select {
   max-width: 100%;
 }
 
-.text-input, select {
+.text-input,
+select {
   padding: 1%;
   outline: none;
-  border: 1.2px solid #b9C6ae;
+  border: 1.2px solid #b9c6ae;
 }
 
-.text-input:hover, .checkbox:hover, 
-select:hover, button:hover {
+.text-input:hover,
+.checkbox:hover,
+select:hover,
+button:hover {
   box-shadow: 0 0 5px #999;
 }
 
@@ -146,7 +149,7 @@ select:hover, button:hover {
 .checkbox:checked + label::after {
   margin-left: 10px;
   font-size: 90%;
-  content: "(thanks!)";
+  content: '(thanks!)';
 }
 
 footer {

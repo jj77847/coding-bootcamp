@@ -1,0 +1,49 @@
+/* div {
+  border: 1px solid black;
+} */
+
+.nav-container {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  padding-left: 0;
+}
+
+.nav-link > a {
+  padding: 16px;
+  text-decoration: none;
+  color: #4d4d4d;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.projects {
+  flex: 2;
+  padding: 16px;
+}
+
+.benefits {
+  flex: 1;
+  padding: 16px;
+}
+
+/* mobile breakpoints */
+@media screen and (max-width: 576px) {
+  .flex-container {
+    flex-direction: column;
+  }
+
+  .benefits {
+    margin-top: 20px;
+  }
+
+  .nav-container {
+    flex-direction: column;
+    align-items: center;
+  }
+}

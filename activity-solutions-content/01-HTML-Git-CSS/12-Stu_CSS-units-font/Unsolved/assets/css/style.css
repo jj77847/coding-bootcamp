@@ -1,0 +1,19 @@
+.section {
+  background-color: #fffacd;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+/* id selector */
+#fact-1 {
+  font-weight: bolder;
+}
+
+/* id selector */
+#fact-2 {
+  font-size: 24px;
+}
+
+/* id selector */
+#fact-3 {
+  line-height: 50px;
+}

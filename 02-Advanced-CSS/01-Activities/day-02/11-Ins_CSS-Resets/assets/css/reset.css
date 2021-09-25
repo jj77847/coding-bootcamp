@@ -16,18 +16,30 @@ body {
   font-family: sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-size: 100%;
 }
 
 /* Matches the font of special elements to the rest of the page */
-input, select, option, optgroup, textarea, button,
-pre, code {
+input,
+select,
+option,
+optgroup,
+textarea,
+button,
+pre,
+code {
   font-size: 100%;
   font-family: inherit;
 }
 
 /* Removes default bullet points from lists */
-ol, ul {
+ol,
+ul {
   list-style: none;
 }
