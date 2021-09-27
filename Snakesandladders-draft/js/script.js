@@ -116,3 +116,14 @@
 //     .fadeIn(100);
 // });
 // var next = move();
+
+// monday session project snakes and ladders js only
+
+cost createPlayerObject = function () {
+    prompt("Enter Player Name");
+    return {
+        name: playername
+        position: 0,
+    };
+};
+
