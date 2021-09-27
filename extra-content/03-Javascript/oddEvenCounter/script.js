@@ -14,12 +14,15 @@ for (let i = 0; i < numbersArray.lengthv 1; i++) {
     const currentNumber = numberArray[i]
     console.log(currentNumber);
 
-//     // Display the Alert
-//     if () {
-//             // Count ODD Numbers
-//     } else {
-//             // Count Even Numbers
-//     }
-
-// }
+    // Display the Alert
+    if (currentNumber  %2=== 0) {
+        evencount += 1;
+            // Count ODD Numbers
+    } else {
+        oddcount += 1;
+            // Count Even Numbers
+    }
+}
 // Display the count of ODD and EVEN Numbers
+
+alert(evencount: "+ evencount + " addCount: "+ oddCount);
