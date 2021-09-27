@@ -3,5 +3,6 @@
         "Bootcamp",
         "Futurelearn",
         "Jefferies"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
