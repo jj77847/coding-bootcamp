@@ -10,12 +10,16 @@ let evencount = 0
 // Declare a Forloop
 for (let i = 0; i < numbersArray.lengthv 1; i++) {
     // Get the current item in the array
-    // Display the Alert
-    if () {
-            // Count ODD Numbers
-    } else {
-            // Count Even Numbers
-    }
 
-}
+    const currentNumber = numberArray[i]
+    console.log(currentNumber);
+
+//     // Display the Alert
+//     if () {
+//             // Count ODD Numbers
+//     } else {
+//             // Count Even Numbers
+//     }
+
+// }
 // Display the count of ODD and EVEN Numbers
