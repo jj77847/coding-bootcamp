@@ -10,7 +10,7 @@ const sentenceArray = sentence.split("");
 const VowelsArray = ['a', 'e', 'i', 'o', 'u']
 
 // Declare Vowels Count
-le VowelsCount = 0
+le vowelsCount = 0
 
 // Loop threw the Sentence
 
@@ -22,10 +22,9 @@ for (let i=0; i<sentenceArray.length; i++) {
     // Check if character is vowel
 
     if (VowelsArray.includes(character)) {
-        
+        // if Yes increment VowelCount
+        VowelsCount+= 1;
     }
-    // if Yes increment VowelCount
-    VowelsCount+= 1;
 }   
 
 // Display Vowels Count
