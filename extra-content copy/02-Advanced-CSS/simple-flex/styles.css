@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+/* main flex container containing divs */
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* each flex item (div) */
+.flex-item {
+  border: 1px solid black;
+  width: 200px;
+  min-height: 200px;
+  background-color: cadetblue;
+  margin: 20px 0px;
+  /* to center align x and y within a flex item */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-item:first-child {
+  width: 100%;
+}
+
+/* every alternate div (2n) where n starts from 1 */
+.flex-item:nth-child(2n) {
+  background-color: chartreuse;
+  height: 300px;
+}
+
+/* when you hover over an alternate div */
+.flex-item:nth-child(2n):hover {
+  background-color: cadetblue;
+}

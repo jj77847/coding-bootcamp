@@ -1,0 +1,31 @@
+/* element name selector */
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height: 20px;
+  letter-spacing: 2px;
+}
+
+/* id selector */
+
+#profile-img {
+  width: 50%;
+}
+
+/* class name selector */
+
+.title {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.image-container {
+  text-align: center;
+}
+
+.contact-links {
+  text-align: center;
+}

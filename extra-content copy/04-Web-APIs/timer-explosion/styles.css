@@ -1,0 +1,27 @@
+img {
+  font-size: 5rem;
+  font-weight: 500;
+  color: var(--font-info);
+  letter-spacing: 0.4rem;
+  text-transform: uppercase;
+  margin: 0;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: moveInFromTopWithBounce 1s ease-out;
+}
+
+@keyframes moveInFromTopWithBounce {
+  0% {
+    top: 0%;
+  }
+
+  75% {
+    top: 45%;
+  }
+
+  100% {
+    top: 40%;
+  }
+}
