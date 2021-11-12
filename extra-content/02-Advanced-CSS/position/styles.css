@@ -1,0 +1,21 @@
+.highlight {
+  color: red;
+  margin: 20px;
+  display: inline-block;
+}
+
+.card {
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.hidden {
+  display: none;
+}
+
+.btn {
+  display: block;
+  width: 90%;
+  margin: 0 auto;
+  /* margin: 20px; */
+}
