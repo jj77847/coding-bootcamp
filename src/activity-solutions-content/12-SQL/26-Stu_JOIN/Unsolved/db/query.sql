@@ -1,0 +1,1 @@
+SELECT favorite_books.book_name AS BOOK, book_prices.price AS PRICE FROM favorite_books JOIN book_prices ON favorite_books.book_price = book_prices.id ORDER BY favorite_books.book_name;

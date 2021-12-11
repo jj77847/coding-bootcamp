@@ -11,6 +11,11 @@ All jamboards used in the boot camp can be found [here](https://drive.google.com
 - [Week 3 activities](https://drive.google.com/drive/folders/1gP4TS-0LyB9-MkrL7dib9ZAW5x6LyI9t?usp=sharing)
 - [Week 4 activities](https://drive.google.com/drive/folders/1E8El5rcsHeAk2KJmk6opCeU4EqvQckz8?usp=sharing)
 - [Week 5 activities](https://drive.google.com/drive/folders/1n8kwRVd7exsOLdYP7HiLh09QXhMvcfkO?usp=sharing)
+- [Week 6 activities](https://drive.google.com/drive/folders/1yT1wNOLqFF5G8hTPsnDNVlO9Mf0OWt_0?usp=sharing)
+- [Week 9 activities](https://drive.google.com/drive/folders/1ySpRidrhbAFDt_DGX_P8pXYPGEq-wazo?usp=sharing)
+- [Week 10 activities](https://drive.google.com/drive/folders/1Xfsmc79LAxDXev0IFHyh1e7BhY-XbYjM?usp=sharing)
+- [Week 11 activities](https://drive.google.com/drive/folders/1nZc35LabDPWOmVObCtQ0j7A59eeabZv3?usp=sharing)
+- [Week 12 activities](https://drive.google.com/drive/folders/1eCEZxKKr1CHy8x9T6euerQhemBMfC74J?usp=sharing)
 
 ## Homework Review Recordings
 
@@ -20,6 +25,9 @@ All jamboards used in the boot camp can be found [here](https://drive.google.com
 - [Week 4 homework](https://zoom.us/rec/share/PVGrNK9QOBCQxsXsrZkybfAqH6DTuiQ3lG28LCxiEuK1Tuhkkq0Mb8YQmQJc00Pu.AyCUJeOcJlyJlHeI?startTime=1633111226000)
 - [Week 5 homework](https://zoom.us/rec/share/qviBthOImpzBy0IFfAfX9zSZ8PO9QLWqHLZmwdmhdy2oRwAbgD3aACKSTfmRgLdZ.Uf_be9Z56KETRGoy?startTime=1633716128000)
 - [Week 6 homework](https://zoom.us/rec/share/1nsNv1sj9Bs5E7o2yZL-G5ZtN9TJayshPCfeB-L6k6HHEg6fRstwQDbshNroYmE.c35-SFCzG8PUwTkB?startTime=1634322107000)
+- [Week 9 homework](https://zoom.us/rec/share/ybETj3CxL8yWwjXfkrmBcPJJcPOq31BAXOl601WhA5D1cQsGdHx0gP7bmto_DMDl.mjDHE7nJVxTsEdSX?startTime=1636743978000)
+- [Week 10 homework](https://zoom.us/rec/share/NWxXock140CSvDETHBP7874V9IU2yc7QESpVzFvbDMY1l66M1Ssnax_ZrjXLojzB._oezeF9SnGRwDNgd?startTime=1637348659000)
+- [Week 11 homework](https://zoom.us/rec/share/yr5FUE7qhL3yS_1zPFV2Yki4scmm0VI6B2K-b8BbjaMf5VPhBzrIetbV31b35DNo.R-YdH9UOMKyTJEWq?startTime=1637953695000)
 
 ## Classroom Recordings
 
@@ -58,6 +66,40 @@ All jamboards used in the boot camp can be found [here](https://drive.google.com
 - [Day 2](https://zoom.us/rec/share/FTaiqrWeD7vgGlwI2SBPgxc-TvVEng-0CXNitn8ebVEAJQYsKpB7o8kbZ3OhPqcp.4YHFMILM3NmYVuFA?startTime=1634230664000)
 - [Day 3](https://zoom.us/rec/share/eC6TZy--nKG5qRFXTQ3hzGmbOXSbRaCrrHrGiIMnREF1NtVVfLBLLmolKWA3xgJR.t_ZIBghMPuKSPwgn?startTime=1634372972000)
 
+### Phase 1 - Project
+
+[Project Presentation](https://zoom.us/rec/share/9EwfnYNAXrqjIVFlS2mExWUPC2THmLe5d8ShGWWCAd_Tns1glENz3s3cTDTYu9cq.U0I4qg6lvRgbg5yP?startTime=1636190807000)
+
+### Week 9
+
+- [Day 1](https://zoom.us/rec/share/1T1VYD9CDejF5RxzIjvfNCUM4y-nbIxyRsCdHTAK6pqA2luAr8H6nkBItkmcSBAP.4bfCBN3E7KQJnQAs?startTime=1637085580000)
+- [Day 2](https://zoom.us/rec/share/muDm_PMdJ1swkIh52U7trsqlGed89U7FHP82yBKp0YXnMPtucvuSxmKIbMuZNd0.mgmaVqOJW6P204Ka?startTime=1636480592000)
+- [Day 3](https://zoom.us/rec/share/8Baz7ech6KXMe4zNvopTbWlzvMyr-wkvNLnnjS9XwF8qj_X3UmGvBemmt8Pkux_c.0NzbTMppB7i0MNC1?startTime=1636795711000)
+
+### Week 10
+
+- [Day 1](https://zoom.us/rec/share/kH3Z_kITKmlfsH4T3W1tpOiS2y1-1XeiodMREFJr4SlW7jIPwV7ODwzWFltDR7D8.ee8_x3yvsPdblYuC?startTime=1637085580000)
+- [Day 2](https://zoom.us/rec/share/7byxTcRFAtJZ90uNonXi5yTF6TO4JHWNgDE5WyV6L7wL-YJ2cgn8CWywmZ3vvDs.my4u_Z5lfTwtyPgR?startTime=1637258583000)
+- [Day 3](https://zoom.us/rec/share/lTKxp1XoHnbjeLNFbiaJ1hmHqUx4IckSTnkWQmnrujukwqIgfM1oA65PfoF1pBJG.pmMNKwF-82dZh_5C?startTime=1637401238000)
+
+### Week 11
+
+- [Day 1](https://zoom.us/rec/share/HRIk452wdbdzT3tfLJ68B9cP1hdy6VFJ8LbobJ5tDu0SI21kHWJLC8BmGzoWPE6L.KEZr_Jk0k3KuYZy5?startTime=1637688916000)
+- [Day 2](https://zoom.us/rec/share/3i4TuKql7qk153Wj7-3xfzGt7Wo6u2rpBmNzaBiW4dmYUTCA_6GGPIFQHJvCfTT8.tj0u3gotNgk4iq6L?startTime=1637863546000)
+- [Day 3](https://zoom.us/rec/share/s42Z_3GJZbRXmTruAiKigOZezPHlgRXYzE4NJqxpfaAQGjtuGj6Q5t251FOH5zbY.UxZmUbdnqYiLbE9b?startTime=1638005099000)
+
+### Week 12
+
+- [Day 1](https://zoom.us/rec/share/jAhfrxsEWQtLjy882z-AXzZPwDnTnPi_5qCuDJxhaJkG-VU6ZcXUpYjSMi9jGotK.lYVLO-vdc24lYTo1?startTime=1638297212000)
+- [Day 2](https://zoom.us/rec/share/JB0m6tYg7s6yIwnL8Lacnr5lmh0csCpc105E5R2mdeoHEes-8UtSfqRrwyPRyF-r.PhZkFzDCvoQCCHjy?startTime=1638469983000)
+- [Day 3](https://zoom.us/rec/share/xPAfiMoBrLN58UTqgrFUrDGiXkvUrbG6l5Yv5-4UfbHXQNwIsTL4rGvSzAsF0pH5.dM324fldjjoy1HLN?startTime=1638610154000)
+
+### Week 13
+
+- [Day 1](https://zoom.us/rec/share/ETsMECybHRAYe6pvBdiW_etlHg5bS40Rv6WDt5dhBtyvN-uNArsyLB8vka0a7P2S.Xb_4OvNgsIA1nJ3_?startTime=1638899658000)
+- [Day 2](https://zoom.us/rec/share/ADi5C23JM5EOnkyBguK_RLrLRWUGC527ICettmmxeay4xyscnhcoPwCq5WKVx1nL.XVZADkXYtB6Xu6Oq?startTime=1639072280000)
+- [Day 3]()
+
 ## Classroom Logs
 
 - [Week 1 - HTML CSS Git](#week-1---html-css-git)
@@ -85,6 +127,10 @@ All jamboards used in the boot camp can be found [here](https://drive.google.com
 - [Week 6 - Server Side APIs](#week-6---server-side-apis)
   - [Week 6 Day 02](#week-6-day-02)
   - [Week 6 Day 03](#week-6-day-03)
+- [Week 9 - NodeJS](#week-09---nodejs)
+  - [Week 9 Day 01](#week-09-day-01)
+  - [Week 9 Day 02](#week-09-day-02)
+  - [Week 9 Day 03](#week-09-day-03)
 
 ### Week 1 - HTML CSS Git
 
@@ -651,3 +697,239 @@ Please try the following activities by yourself or with your online tutors:
 - [Activity 24](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/06-Server-Side-APIs/01-Activities/day-03/24-Stu_Review-Part-Two)
 
 - [Activity 26](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/06-Server-Side-APIs/01-Activities/day-03/26-Evr_Git-Collaboration)
+
+### Week 09 - NodeJs
+
+#### Week 09 Day 01
+
+##### Class Content
+
+- arrow function
+- variable declaration refresher (let, const, var)
+- functional loops
+- template literals
+
+##### Useful Resources
+
+- [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+- [Storing the information you need — Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+- [Template literals (Template strings)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+
+##### Activities
+
+Please try the following activities by yourself or with your online tutors:
+
+- [Activity 02](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/09-NodeJS/01-Activities/day-01/02-Stu_Hello-Node)
+
+- [Activity 04](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/09-NodeJS/01-Activities/day-01/04-Stu_Arrow-Function-Practice)
+
+- [Activity 06](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/09-NodeJS/01-Activities/day-01/06-Stu_Let-Const)
+
+- [Activity 08](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/09-NodeJS/01-Activities/day-01/08-Stu_Functional-Loops)
+
+- [Activity 10](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/09-NodeJS/01-Activities/day-01/10-Stu_Template-Literals)
+
+#### Week 09 Day 02
+
+##### Class Content
+
+- getting started with inquirer
+- reading and writing to a file with inquirer
+- Modularisation
+- node args
+- parameters check
+- mini projects
+
+##### Useful Resources
+
+- [Getting started with inquirer](https://www.npmjs.com/package/inquirer)
+- [Writing files with Node.js](https://nodejs.dev/learn/writing-files-with-nodejs)
+- [Accept input from the command line in Node.js](https://nodejs.dev/learn/accept-input-from-the-command-line-in-nodejs)
+- [How to parse command line arguments](https://nodejs.org/en/knowledge/command-line/how-to-parse-command-line-arguments/)
+- [npm getting started](https://docs.npmjs.com/getting-started)
+
+##### Activities
+
+Please try the following activities by yourself or with your online tutors:
+
+- [Activity 12](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/09-NodeJS/01-Activities/day-02/12-Stu_Parameter-Check)
+
+- [Activity 14](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/09-NodeJS/01-Activities/day-02/14-Stu_appendFile)
+
+- [Activity 16](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/09-NodeJS/01-Activities/day-02/16-Stu_maths)
+
+- [Activity 18](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/09-NodeJS/01-Activities/day-02/18-Stu_Package-npm)
+
+- [Activity 20](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/09-NodeJS/01-Activities/day-02/20-Stu_Inquirer-Users)
+
+#### Week 09 Day 03
+
+##### Class Content
+
+- array destructing
+- object destructing
+- import and export
+- spread and rest operator on array and objects
+- for of loop
+- mini project - code quiz challenge
+
+##### Useful Resources
+
+- [Spread Operator syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+
+- [Rest Operator syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#rest_syntax_parameters)
+
+- [Rest parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
+- [ES6 In Depth: Destructuring](https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/)
+
+- [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+- [export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
+- [for...of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+
+##### Activities
+
+Please try the following activities by yourself or with your online tutors:
+
+- [Activity 22](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/09-NodeJS/01-Activities/day-03/22-Stu_for-of)
+
+- [Activity 24](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/09-NodeJS/01-Activities/day-03/24-Stu_Rest-and-Spread)
+
+- [Activity 26](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/09-NodeJS/01-Activities/day-03/26-Stu_Obj-Destructuring)
+
+### Week 10 - OOP
+
+#### Week 10 Day 01
+
+##### Class Content
+
+- closure
+- Object prototypes
+- constructors
+- class
+
+##### Useful Resources
+
+- [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+- [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
+- [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+- [Object prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+
+##### Activities
+
+Please try the following activities by yourself or with your online tutors:
+
+- [Activity 02](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/10-OOP/01-Activities/day-01/02-Stu_Constructors)
+
+- [Activity 04](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/10-OOP/01-Activities/day-01/04-Stu_Prototypes)
+
+- [Activity 06](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/10-OOP/01-Activities/day-01/06-Stu_Polymorphism)
+
+- [Activity 08](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/10-OOP/01-Activities/day-01/08-Stu_Promises)
+
+- [Activity 10](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/10-OOP/01-Activities/day-01/10-Stu_Promise-All)
+
+#### Week 10 Day 02
+
+##### Class Content
+
+- Polymorphism
+- Promises/Promise all
+- TDD
+
+##### Useful Resources
+
+- [Object-oriented JavaScript for beginners](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
+- [Inheritance in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
+
+- [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+##### Activities
+
+Please try the following activities by yourself or with your online tutors:
+
+- [Activity 12](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/10-OOP/01-Activities/day-02/12-Stu_TDD)
+
+- [Activity 14](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/10-OOP/01-Activities/day-02/14-Stu_Pass-Tests)
+
+- [Activity 16](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/10-OOP/01-Activities/day-02/16-Stu_Organizing-Tests)
+
+- [Activity 18](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/10-OOP/01-Activities/day-02/18-Stu_First-Mock)
+
+- [Activity 20](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/10-OOP/01-Activities/day-02/20-Stu_Mock-Fs)
+
+#### Week 10 Day 03
+
+##### Class Content
+
+- Last class recap
+- mini project of word guessing game using class
+- mini project of notetaker
+
+##### Activities
+
+Please try the following activities by yourself or with your online tutors:
+
+- [Activity 22](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/10-OOP/01-Activities/day-03/22-Stu_Classes)
+
+- [Activity 24](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/10-OOP/01-Activities/day-03/24-Stu_Subclasses)
+
+- [Activity 26](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/10-OOP/01-Activities/day-03/26-Stu_Multiple-Classes)
+
+- [Activity 28](https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c/-/tree/master/src/class-content/10-OOP/01-Activities/day-03/28-Stu_Mini-Project)
+
+<!-- WEEKLY EXPRESS QUESTIONS -->
+<!-- 1. What is express?
+
+2. how to create a simple express server?
+
+3. What are the required params for express app
+
+4. what is a controller?
+
+5. What is a router?
+
+6. What is a promise?
+
+7. How do you write a promise and what is the difference between a promise and promise all?
+
+8. What is TTD ?
+
+9. How do you write a unit test?
+
+10. What is T.E.R.A approach of TDD
+
+11. What is a class?
+
+12. How can you create and instantiate, and access the properties of a class?
+
+13. What is polymorphism?
+
+14. What is inheritance and how can you inherit another class?
+
+15. What is a constructor?
+
+16. what is the difference between a constructor and  prototypes
+
+17. What is the difference between GET, POST, PUT, and DELETE request methods
+
+18. what is the difference between GET route query, and params property
+
+19. What is a the concept of middleware and how to implement middleware in Nodejs?
+
+20. What are the types of middleware in express.js?
+
+21. What is a call back function?
+
+22. What is NPM ?
+
+23. What are the modules in Nodejs
+
+24. What is event driven programming?
+
+25. what is an event loop in Nodejs?
+
+26. What is a stream and how may types of streams are in nodejs?
+
+27. what are the arguments available for express.js route?
+
+28. what is the use of next in express route arguments?  -->

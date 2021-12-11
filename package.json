@@ -1,0 +1,26 @@
+{
+  "name": "instructor",
+  "version": "1.0.0",
+  "description": "## Classroom Logs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.0"
+  },
+  "scripts": {
+    "lint": "prettier --check \"src\"",
+    "lint:fix": "prettier --check \"src\" --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@birmingham.bootcampcontent.com:university-of-birmingham/ubhm-brm-fsf-pt-08-2021-u-c.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
