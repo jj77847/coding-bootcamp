@@ -1,0 +1,16 @@
+DROP DATABASE IF EXISTS ecommerce_db;
+CREATE DATABASE ecommerce_db;
+USE ecommerce_db;
+
+CREATE TABLE products (
+  id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  product_name VARCHAR(30) NOT NULL,
+  category_name VARCHAR(30) NOT NULL,
+  price DECIMAL(7, 2) NOT NULL,
+  in_stock BOOLEAN DEFAULT TRUE
+);
+
+CREATE TABLE categories (
+  id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  category_name VARCHAR(30) NOT NULL
+);

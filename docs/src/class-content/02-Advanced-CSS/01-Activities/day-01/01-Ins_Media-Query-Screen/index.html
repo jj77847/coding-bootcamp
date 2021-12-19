@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <style>
+      .parent {
+        font-size: 10px;
+        width: 20em;
+      }
+      .child {
+        font-size: 1.5em;
+        width: 10em;
+      }
+      .inner-child {
+        font-size: 10em;
+        width: 2em;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="parent">
+      Font size will equate to 10px and width to 200px
+      <div class="child">
+        Font size will equate to 15px and width to 150px
+        <div class="inner-child">
+          Font size will equate to 150px and width to 200px
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

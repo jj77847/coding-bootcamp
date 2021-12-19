@@ -1,0 +1,24 @@
+User Journeys
+
+- AS a user when I navigate to the homepage THEN I should see all blogs from DB
+- AS a logged out user I should see the nav bar with 3 link Home, Login and Sign Up
+- AS a user when I click on a tech blog THEN I should navigate to that individual blog page
+- AS a user when I click on Login THEN I should navigate to the login page
+- AS a user when I click on Sign Up THEN I should navigate to the sign-up page
+- AS a user when I click on Home THEN I should navigate to the home page
+- AS a user when I navigate to the homepage THEN my tech blog card should render blog title, content, and date created, created by user, 
+- AS a user when I navigate to the sign up page then I should see a form with a username input, password input, confirm password input and a submit button (handle client sides form errors)
+- AS a user when I navigate to the login page then I should see a form with a username input, password input, and a submit button (handle client sides form errors)
+
+Tech Stack
+- Express Server
+- Express Session (User Authentication)
+- Sequelize (ORM)
+- Handlebars
+- MySQL DB
+- Heroku (deployment)
+
+Pages
+
+- Homepage: All blogs from DB | Navbar with links Home, Login, Sign Up
+  - View Route `/`
