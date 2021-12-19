@@ -16,6 +16,7 @@ All jamboards used in the boot camp can be found [here](https://drive.google.com
 - [Week 10 activities](https://drive.google.com/drive/folders/1Xfsmc79LAxDXev0IFHyh1e7BhY-XbYjM?usp=sharing)
 - [Week 11 activities](https://drive.google.com/drive/folders/1nZc35LabDPWOmVObCtQ0j7A59eeabZv3?usp=sharing)
 - [Week 12 activities](https://drive.google.com/drive/folders/1eCEZxKKr1CHy8x9T6euerQhemBMfC74J?usp=sharing)
+- [Week 13 activities](https://drive.google.com/drive/folders/1zx6-jmy6XCHBajcX8ZlgqafX6Va3nHbO?usp=sharing)
 
 ## Homework Review Recordings
 
@@ -28,6 +29,7 @@ All jamboards used in the boot camp can be found [here](https://drive.google.com
 - [Week 9 homework](https://zoom.us/rec/share/ybETj3CxL8yWwjXfkrmBcPJJcPOq31BAXOl601WhA5D1cQsGdHx0gP7bmto_DMDl.mjDHE7nJVxTsEdSX?startTime=1636743978000)
 - [Week 10 homework](https://zoom.us/rec/share/NWxXock140CSvDETHBP7874V9IU2yc7QESpVzFvbDMY1l66M1Ssnax_ZrjXLojzB._oezeF9SnGRwDNgd?startTime=1637348659000)
 - [Week 11 homework](https://zoom.us/rec/share/yr5FUE7qhL3yS_1zPFV2Yki4scmm0VI6B2K-b8BbjaMf5VPhBzrIetbV31b35DNo.R-YdH9UOMKyTJEWq?startTime=1637953695000)
+- [Week 13 homework](https://zoom.us/rec/share/2-0riIo_3AfPHyAS9Ix-yOsnZ0iv-8ZkDwAp4Rkj2ALfAfFmAFAfWjN8NWmiH-vF.PbWaNMJq-eSJ875B?startTime=1639163303000)
 
 ## Classroom Recordings
 
@@ -98,6 +100,12 @@ All jamboards used in the boot camp can be found [here](https://drive.google.com
 
 - [Day 1](https://zoom.us/rec/share/ETsMECybHRAYe6pvBdiW_etlHg5bS40Rv6WDt5dhBtyvN-uNArsyLB8vka0a7P2S.Xb_4OvNgsIA1nJ3_?startTime=1638899658000)
 - [Day 2](https://zoom.us/rec/share/ADi5C23JM5EOnkyBguK_RLrLRWUGC527ICettmmxeay4xyscnhcoPwCq5WKVx1nL.XVZADkXYtB6Xu6Oq?startTime=1639072280000)
+- [Day 3](https://zoom.us/rec/share/_xQK63gmtw-F1vXDR_BwlV8H5r_pubiKs-ZHGOWjzh8vPeQ1KHUmVBr3tJqoDAxJ.TBYuqWFijB613j4M?startTime=1639215640000)
+
+### Week 14
+
+- [Day 1](https://zoom.us/rec/share/-YPnQ1vaCrhS00ADIVo9W2aJ1bKyq_YzpkVjwKI1AMVpbjN7meLZwQztRbL6j6i2.oj824ZvcMOBFiBdl?startTime=1639505027000)
+- [Day 2]()
 - [Day 3]()
 
 ## Classroom Logs

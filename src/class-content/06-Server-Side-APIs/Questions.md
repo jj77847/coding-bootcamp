@@ -11,3 +11,6 @@
 - How can you handle network failure in an API?
 
 - How can you Implement Status Checking to Display a 404 Message ?
+
+- How can you add an event listener to an element on the DOM?
+
