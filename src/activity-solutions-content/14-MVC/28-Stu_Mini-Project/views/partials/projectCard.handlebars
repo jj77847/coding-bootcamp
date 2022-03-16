@@ -1,0 +1,12 @@
+<div class="card m-3 text-center" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">{{name}}</h5>
+    <h6 class="card-subtitle my-2 text-muted">By {{user.name}}</h6>
+    <hr />
+    <p class="card-text">{{description}}</p>
+    <a href="/projects/{{id}}" class="card-link">View</a>
+  </div>
+  <div class="card-footer">
+    {{formatFunding needed_funding}}
+  </div>
+</div>

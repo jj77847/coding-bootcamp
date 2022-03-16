@@ -1,0 +1,13 @@
+{{#if loggedIn }}
+  {{> privateNavbar}}
+{{else}}
+  {{> publicNavbar}}
+{{/if }}
+<main>
+  {{> banner}}
+  <div class="d-flex flex-row justify-content-around flex-wrap">
+    {{#each projects as | project |}}
+      {{> projectCard}}
+    {{/each}}
+  </div>
+</main>

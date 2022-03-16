@@ -1,0 +1,57 @@
+What is the structure of the team?
+  - Manager
+  - Engineer
+  - Intern
+
+Questions:
+  - Enter team name
+
+  - Enter manager name
+  - Enter manager employee ID
+  - Enter manager email address
+  - Enter manager office number
+
+  - Select the next employee you want to add:
+    - Engineer
+    - Intern
+    - None
+
+  - Enter engineer name
+  - Enter engineer employee ID
+  - Enter engineer email address
+  - Enter engineer github username
+
+  - Enter intern name
+  - Enter intern employee ID
+  - Enter intern email address
+  - Enter intern school name
+
+Packages:
+
+- inquirer (dep)
+- jest (devDep)
+- @types/jest (devDep)
+
+Video
+- demo the CLI app
+- show the generated HTML
+- open generated HTML file in browser
+- run tests in terminal and show all tests passing, maybe you can show coverage report as well
+
+Notes:
+
+- prompt some questions
+- collect all data and use data to write to HTML file (fs)
+- make sure that the HTML template has mailto attribute in the anchor tag
+- make sure that the HTML template renders the github link as an anchor tag to open in new tab (target="_blank")
+- when application is complete use process.exit(0)
+- can use bootstrap or any other CSS framework or your own CSS, free to use google fonts, colour palettes, etc
+- the path when writing to file should point to the dist folder
+- Important: Make sure that you remove dist from the .gitignore file so that Git will track this folder and include it when you push up to your application's repository.
+
+How in the world I am going to start this HW?
+
+1. start work using just HTML and CSS to render your HTML page
+2. complete all tests for classes
+3. pass all tests
+4. do the rest

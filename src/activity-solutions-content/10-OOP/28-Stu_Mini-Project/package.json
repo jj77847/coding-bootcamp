@@ -1,0 +1,16 @@
+{
+  "name": "28-Stu_Mini-Project",
+  "version": "1.0.0",
+  "description": "Work with a partner to implement the following user story:",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "inquirer": "^8.2.0"
+  }
+}

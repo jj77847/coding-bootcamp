@@ -1,0 +1,16 @@
+{
+  "name": "06-Stu_Stacks",
+  "version": "1.0.0",
+  "description": "Work with a partner to resolve the following issue:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "jest": "^27.4.7"
+  }
+}

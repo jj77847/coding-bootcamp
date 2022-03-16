@@ -1,0 +1,23 @@
+.highlight-inline {
+  display: inline;
+  color: red;
+  border: 1px solid red;
+  margin: 8px;
+  padding: 8px;
+}
+
+.highlight-inline-block {
+  display: inline-block;
+  color: red;
+  border: 1px solid red;
+  margin: 8px;
+  padding: 8px;
+}
+
+.highlight-block {
+  display: block;
+  color: red;
+  border: 1px solid red;
+  margin: 8px;
+  padding: 8px;
+}

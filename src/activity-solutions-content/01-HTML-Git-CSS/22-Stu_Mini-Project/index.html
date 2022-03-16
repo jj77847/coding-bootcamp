@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/styles.css" />
+    <title>Landing Page</title>
+  </head>
+  <body>
+    <!-- header with nav bar -->
+    <header class="header">
+      <nav>
+        <div class="nav-item"><a href="#home" class="nav-link">Home</a></div>
+        <div class="nav-item">
+          <a href="#about-us" class="nav-link">About Us</a>
+        </div>
+        <div class="nav-item">
+          <a href="#contact-us" class="nav-link">Contact Us</a>
+        </div>
+      </nav>
+    </header>
+
+    <!-- main content with image and contact form -->
+    <main class="main" id="#home">
+      <!-- about us section with image -->
+      <section id="about-us">
+        <h2 class="title">About Us</h2>
+        <figure class="figure">
+          <img
+            src="./assets/images/banner.png"
+            alt="mountain with trees and a lake"
+            class="banner-img"
+          />
+          <figcaption class="caption">Lorem ipsum dolor</figcaption>
+        </figure>
+
+        <p class="content">
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. A itaque
+          optio quibusdam soluta, delectus iusto reprehenderit. Recusandae earum
+          suscipit facere aliquid quos ut, repellendus perspiciatis nemo
+          consequatur quaerat similique minus!
+        </p>
+      </section>
+
+      <!-- contact us section with form -->
+      <section id="contact-us">
+        <h2 class="title">Contact Us</h2>
+        <form class="contact-form">
+          <div class="form-control">
+            <label for="name" class="form-label">Full Name</label>
+            <input
+              type="text"
+              id="name"
+              placeholder="Enter full name"
+              class="form-input"
+            />
+          </div>
+          <div class="form-control">
+            <label for="email" class="form-label">Email</label>
+            <input
+              type="text"
+              id="email"
+              placeholder="Enter email address"
+              class="form-input"
+            />
+          </div>
+          <div class="form-control">
+            <button class="btn">Send</button>
+          </div>
+        </form>
+      </section>
+    </main>
+
+    <!-- footer of webpage -->
+    <footer class="footer">
+      <hr />
+      <div>&copy; 2021</div>
+    </footer>
+  </body>
+</html>

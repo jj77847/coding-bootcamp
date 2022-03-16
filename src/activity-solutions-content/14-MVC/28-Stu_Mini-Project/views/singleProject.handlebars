@@ -1,0 +1,36 @@
+{{#if loggedIn }}
+  {{> privateNavbar}}
+{{else}}
+  {{> publicNavbar}}
+{{/if }}
+<main>
+  <div class="jumbotron text-center">
+    <h1 class="display-4">Thank you for your interest</h1>
+    <hr class="my-4" />
+    <p class="lead">Your donations and contributions are much appreciated</p>
+    <a class="btn btn-primary" href="/" role="button">View More Projects</a>
+  </div>
+  </div>
+
+  {{#if loggedIn}}
+    {{#if isMyProject}}
+      <div class="my-2 text-center">
+        <button class="btn btn-danger" type="button" id="delete-btn" data-id="{{project.id}}"><i class="far fa-trash-alt"></i><span class="px-2">Delete Project</span></button>
+      </div>
+    {{/if}}
+  {{/if}}
+
+  <div class="d-flex flex-row justify-content-around flex-wrap">
+    <div class="card m-3 text-center" style="width: 100%">
+      <div class="card-body">
+        <h5 class="card-title">{{project.name}}</h5>
+        <h6 class="card-subtitle my-2 text-muted">By {{project.user.name}}</h6>
+        <hr />
+        <p class="card-text">{{project.description}}</p>
+      </div>
+      <div class="card-footer">
+        {{formatFunding project.needed_funding}}
+      </div>
+    </div>
+  </div>
+</main>

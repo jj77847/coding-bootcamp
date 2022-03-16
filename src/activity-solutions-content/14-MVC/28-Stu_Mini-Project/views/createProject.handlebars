@@ -1,0 +1,22 @@
+{{> privateNavbar}}
+<div class="container my-4 p-4 border">
+  <h1>Create Project</h1>
+  <hr />
+  <form id="create-project-form">
+    <div class="mb-3">
+      <label for="name" class="form-label">Project Name</label>
+      <input type="text" class="form-control" id="name" />
+    </div>
+    <div class="mb-3">
+      <label for="description" class="form-label">Project Description</label>
+      <input type="text" class="form-control" id="description" />
+    </div>
+    <div class="mb-3">
+      <label for="needed_funding" class="form-label">Funding Required</label>
+      <input type="number" class="form-control" id="needed_funding" />
+    </div>
+    <div class="d-grid gap-2 mb-3">
+      <button class="btn btn-primary" type="submit">Create</button>
+    </div>
+  </form>
+</div>

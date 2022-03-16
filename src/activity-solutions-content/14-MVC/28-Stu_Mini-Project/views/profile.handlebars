@@ -1,0 +1,14 @@
+{{> privateNavbar}}
+<main>
+  <div class="jumbotron text-center">
+    <h1 class="display-4">Welcome {{user.name}}</h1>
+    <hr class="my-4" />
+    <p class="lead">Here are a list of your crowd-funding projects</p>
+    <a class="btn btn-primary" href="/create-project" role="button">Add Project</a>
+  </div>
+  <div class="d-flex flex-row justify-content-around flex-wrap">
+    {{#each projects as | project |}}
+      {{> projectCard}}
+    {{/each}}
+  </div>
+</main>
