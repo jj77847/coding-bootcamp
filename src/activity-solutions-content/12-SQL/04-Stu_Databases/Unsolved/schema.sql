@@ -1,9 +1,0 @@
--- DELETE DB
-DROP DATABASE IF EXISTS sample_db;
-DROP DATABASE IF EXISTS books_db;
-
--- CREATE DB
-CREATE DATABASE books_db;
-
--- SELECT DB
-USE books_db;

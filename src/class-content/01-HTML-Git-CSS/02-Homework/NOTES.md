@@ -1,9 +1,0 @@
-- Focus on ensuring that you use sematic HTML elements where possible
-- check the nav links, if not working fix them. The nav links must take the user to the specific section on the page
-- check where you can refactor css blocks in the CSS files, reduce duplication of style declarations
-- please add comments in the HTML and CSS files (high level comments, for instance this is the benefits section of the marketing website)
-- see where you can improve accessibility in the HTML file (images, links)
-- logical structure?? Maybe sequential order for headings?? Logical order for semantic HTML elements
-- please keep alt attributes descriptive of the image
-- document title should be descriptive
-- don't focus on mobile viewport for this homework and only stick to desktop viewport
